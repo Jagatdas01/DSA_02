@@ -305,6 +305,7 @@ java FileName
 - Based on: **CodeHelp - GoAt DSA Course**
 - Platform: [CodeHelp.in](https://www.codehelp.in)
 - Practice: LeetCode, HackerRank, GeeksforGeeks
+- Supplemental concurrency guide: [Java Multithreading](./MultiThreading.md)
 
 ---
 

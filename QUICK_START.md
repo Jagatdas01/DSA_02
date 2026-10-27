@@ -42,7 +42,8 @@ DSA/
 ├── 17_BitManipulation/← Bit tricks
 ├── 18_DivideAndConquer/← D&C algorithms
 ├── 19_SlidingWindow/  ← Sliding window
-└── 20_Math/           ← Math algorithms
+├── 20_Math/           ← Math algorithms
+└── MultiThreading.md  ← Java threads and concurrency guide
 ```
 
 ---

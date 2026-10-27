@@ -71,13 +71,16 @@ DSA/
 ├── 19_SlidingWindow/
 │   └── SlidingWindowPatterns.java
 │
-└── 20_Math/
-    └── MathAlgorithms.java
+├── 20_Math/
+│   └── MathAlgorithms.java
+└── MultiThreading.md (supplemental Java concurrency guide)
 ```
 
 ---
 
 ## 🎓 Topics & Key Algorithms
+
+For Java threads, synchronization, executors, and concurrent collections, see the supplemental [Java Multithreading guide](./MultiThreading.md). It is separate from the 20 algorithm-topic count below.
 
 ### **1. Arrays** (2 files - 15 algorithms)
 - ✅ Find element, Reverse, Rotate
